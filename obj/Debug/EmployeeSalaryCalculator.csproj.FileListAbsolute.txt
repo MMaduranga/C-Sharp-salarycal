@@ -1,0 +1,10 @@
+E:\projects\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe.config
+E:\projects\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe
+E:\projects\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.pdb
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csprojAssemblyReference.cache
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.Form1.resources
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.Properties.Resources.resources
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csproj.GenerateResource.cache
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csproj.CoreCompileInputs.cache
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.exe
+E:\projects\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.pdb
